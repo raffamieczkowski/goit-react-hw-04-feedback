@@ -1,0 +1,20 @@
+.statistics {
+  margin-bottom: 20px;
+}
+
+.statistics h2 {
+  margin-bottom: 10px;
+}
+
+.statistics p {
+  margin: 5px 0;
+}
+
+.statistics span {
+  font-weight: bold;
+}
+
+.statistics .notification {
+  color: red;
+  font-weight: bold;
+}
